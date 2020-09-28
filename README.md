@@ -1,1 +1,2 @@
-# paper-trash-thingy-1
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
